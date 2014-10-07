@@ -1,0 +1,116 @@
+#header{
+	height:100px;
+	width:99em;
+	margin-top: -10px;
+	margin-left:-10px;
+	float:top;
+	background-color: #221D19;
+	position:absolute;
+}
+#titulo{
+	color:#00CC00;
+	font-family:calibri;
+	margin-left:110px;
+	position:absolute;
+	margin-top:50px;
+	font-size:2em;
+}
+#cmLogo{
+	height:100px;
+	margin-right:100px;
+	position:absolute;
+	border-radius: 100%;
+}
+#googleMap{
+	width:50%;
+	height:380px;
+	margin-left:25%;
+	margin-top:200px;
+	border-radius:10%;
+	position:absolute;
+	float:center;
+	border:4px dashed black;
+}
+#googleMap:hover{
+    border:4px dashed green;
+}
+#cuadro{
+	width: 20%;
+	margin-left: 20%;
+	margin-top: 200px;
+	float:right;
+	background-color: #C6C6AA;
+	opacity: 0.4;
+	border:2px dashed blue;
+}
+#cuadro:hover{
+	border:2px dashed green;
+	opacity: 1;
+}
+#infoEscuela{
+	opacity: 1;
+}
+#right_panel{
+    margin-left:15%;
+    height: 100%;
+}
+#left_side-bar{
+	width:20%;
+	margin-top:90px;
+	margin-left:-10px;
+	background-color:#808080;
+	height:100%;
+	position:absolute;
+	float:left;
+}
+#totalEscuelas{
+	margin-left:10%;
+	font-family:"Verdana",Georgia,Serif;
+	font-size:1.5em;
+	color:#00CC00;
+}
+#seleccion{
+    font-family: "Verdana";
+    background-color: blue;
+}
+#busqueda{
+    font-family:"Verdana", Georgia,Serif;
+    margin-left:10%;
+    width:40%;
+    border:1px dashed green;
+}
+#busqueda:hover{
+    background-color:#00CC04;
+    border:1px dashed black;
+}
+#boton_busqueda{
+    border: 1px dashed green;
+}
+#boton_busqueda:hover{
+    background-color: #00CC04;
+    border: 1px dashed black;
+}
+#resultadosFont{
+	font-family: Tahoma, Geneva, sans-serif;
+	width: 50%;
+}
+#resultado{
+	margin-left:25%;
+}
+#resultados{
+    height:50%;
+    width:50%;
+    border:2px dashed blue;
+}
+.header{
+	margin-left: 5%;
+	font-family: Tahoma, Geneva, sans-serif;
+    font-size:100%;
+}
+body{
+    background-color:#00CC00;
+    background-image:url("C:/Users/Jose Juan/Desktop/Prepa/5to Semestre/Info/Codigo//Imagenes/backgoundPuebla.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
